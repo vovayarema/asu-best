@@ -1,4 +1,4 @@
-const requestURL = 'https://raw.githubusercontent.com/VladIsLaugh/json/master/data.json';
+const requestURL = 'https://raw.githubusercontent.com/vovayarema/forJson/master/data.json';
 const container = document.getElementsByClassName("features-wrap")[0]
 
 document.getElementById("getMore").addEventListener("click", (e)=>{
